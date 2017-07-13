@@ -14,7 +14,7 @@ import org.openqa.selenium.support.PageFactory;
 /**
  * Created by hcjang on 2017-07-07.
  */
-public class LoginTest {
+public class LoginTest extends DemoApplicationTests {
 
     private WebDriver driver;
     private String baseUrl;
